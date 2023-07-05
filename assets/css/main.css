@@ -13,9 +13,9 @@
 		margin: 0;
 		padding: 0;
 		border: 0;
-		font-size: 100%;
 		font: inherit;
-		color: rgb(27, 60, 122);
+		
+		color: rgb(255, 255, 255);
 		vertical-align: baseline;
 	}
 
@@ -69,7 +69,7 @@
 	}
 
 	body {
-		background: #fff;
+		background: #3176c5;
 		overflow: hidden;
 	}
 
